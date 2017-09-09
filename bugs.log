@@ -1,0 +1,23 @@
+2017-08-19 23:17:10.249000 - AbsentHiya: https://gyazo.com/8e5c2218cc90b7f1bfabce0c2b128b84
+2017-08-10 00:05:14.549000 - AbsentHiya: - Building teleports not showing a 'this bldg has been taken over' notification
+- CBHQ having mass frame drops when spawning in it
+- Karts spawn on Forest's End hill when entering the zone in a kart
+- Tunnel exiting FE doesn't allow karts
+2017-08-06 11:14:35.468000 - Alex/LsR: <@203328996065148928>
+2017-08-05 23:52:56.023000 - masterjumblespeed: <@136254457640910849> is your gmicon still not showing
+2017-08-05 21:33:45.555000 - Alex/LsR: - Moderators are unable to see what people say in-game without referring to chat logs. i.e. if people make spelling mistakes to intentionally hide what they say, we have to look at the ModCP.
+2017-08-05 21:28:20.890000 - AbsentHiya: i had someone report me for a test and it didn't show up
+2017-08-05 21:28:14.658000 - AbsentHiya: <@175594692237328384> The reports haven't updated in like 10 days
+2017-08-05 21:27:30.587000 - Alex/LsR: 
+2017-08-05 21:26:57.666000 - Jake S.: That's a bug.
+2017-08-05 21:26:52.549000 - Jake S.: 😮
+2017-08-05 21:26:12.397000 - AbsentHiya: woah you're actually playing
+2017-08-05 21:24:37.514000 - Alex/LsR: - Access 410 does not have an emblem when using the command ~ToggleStaff
+2017-08-04 00:15:44.853000 - AbsentHiya: - Cars go speeding out of tunnel when loaded into area
+- Loading takes less time than loading screen
+2017-08-04 00:05:54.716000 - Disyer: **CAR UPDATE**
+============
+- On Golf Kart players will be standing instead of sitting
+- This update practically doubles the amount of smooth nodes on the server, so we need more Client Agents
+- Suggestion: add camera views to car
+- Dust Cloud code can sometimes crash

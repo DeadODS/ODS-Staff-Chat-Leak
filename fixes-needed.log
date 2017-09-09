@@ -1,0 +1,50 @@
+2017-08-03 23:21:04.332000 - Frank: 
+2017-08-03 23:20:57.530000 - Frank: That's right before that
+2017-08-03 23:20:52.293000 - Frank: ```
+:OTPClientRepository(warning): storeObjectLocation(401005698): parent 100041831 not present
+Assertion failed: other._error_type == ET_ok at line 387 of panda/src/pgraph/nodePath.cxx
+Exception occurred while processing Func-reparentTo-202 of dustCloudIval:
+dustCloudIval:
+  0.000 dustCloudIval {
+  0.000   Wait
+  0.000   *Func-reparentTo-202
+  0.000   dustCloud-track-2 {
+  0.000     *Func-show-196
+  0.000     *Func-messaging-197
+  0.000     *Func-play-198
+  0.000     *Func-setFrameRate-199
+  0.000     *Func-play-200
+  0.000     Wait dur 0.791667
+  0.792     *Func-_resetTrack-201
+  0.792   }
+  0.792   *Func-destroy-203
+  0.792 }
+```
+2017-08-03 23:20:40.977000 - Frank: ```
+Traceback (most recent call last):
+  File "direct.showbase.ShowBase", line 1857, in __ivalLoop
+  File "direct.interval.IntervalManager", line 94, in step
+  File "direct.interval.IntervalManager", line 117, in __doPythonCallbacks
+  File "direct.interval.MetaInterval", line 518, in privPostEvent
+  File "direct.interval.MetaInterval", line 494, in __doPythonCallbacks
+  File "direct.interval.Interval", line 209, in privDoEvent
+  File "direct.interval.FunctionInterval", line 88, in privInstant
+AssertionError: other._error_type == ET_ok at line 387 of panda/src/pgraph/nodePath.cxx
+:task(error): Exception occurred in PythonTask ivalLoop
+:ToonBase(warning): Handling Python exception.
+:ForceGroup: Client exception: direct.interval.FunctionInterval:88, direct.interval.Interval:209, direct.interval.MetaInterval:502, direct.interval.MetaInterval:518, AssertionError: other._error_type == ET_ok at line 387 of panda/src/pgraph/nodePath.cxx
+:ToonBase: Exception exit.
+
+Traceback (most recent call last):
+  File "otp.otpbase.OTPBase", line 123, in run
+  File "direct.task.Task", line 517, in run
+  File "direct.task.Task", line 471, in step
+  File "direct.showbase.ShowBase", line 1857, in __ivalLoop
+  File "direct.interval.IntervalManager", line 94, in step
+  File "direct.interval.IntervalManager", line 117, in __doPythonCallbacks
+  File "direct.interval.MetaInterval", line 518, in privPostEvent
+  File "direct.interval.MetaInterval", line 494, in __doPythonCallbacks
+  File "direct.interval.Interval", line 209, in privDoEvent
+  File "direct.interval.FunctionInterval", line 88, in privInstant
+AssertionError: other._error_type == ET_ok at line 387 of panda/src/pgraph/nodePath.cxx
+```
